@@ -44,7 +44,6 @@ slides:
    slide-data: Slide adicional <br> <br> 
                Agrega más contenido aquí si es necesario
    background: '#1abc9c'
-
  - title: Slide 7
    slide-data: Slide adicional <br> <br> 
                Agrega más contenido aquí si es necesario
