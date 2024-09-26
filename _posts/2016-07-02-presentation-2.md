@@ -1,5 +1,5 @@
 ---
-title: Presentation 2
+title: tiposdesensores
 layout: post
 permalink: /presentation-2/
 
