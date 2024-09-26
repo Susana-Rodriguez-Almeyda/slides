@@ -5,22 +5,91 @@ permalink: /solarized/
 theme: solarized
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Actuadores
+   slide-data: >
+     Un actuador es un dispositivo que convierte una señal de control en movimiento mecánico. Dependiendo de la fuente de energía, se clasifican en eléctricos, mecánicos e hidráulicos.
 
-   
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Actuadores Eléctricos
+   slide-data: >
+     Los actuadores eléctricos convierten la energía eléctrica en movimiento mecánico. Son altamente precisos y controlables, aunque requieren electricidad. Se utilizan en aplicaciones que demandan control exacto y bajo nivel de ruido.
+
+ - title: Tipos de Actuadores Eléctricos
+   slide-data: >
+     - Motores eléctricos (AC y DC)
+     - Actuadores lineales
+     - Solenoides
+
+ - title: Funcionamiento de Actuadores Eléctricos
+   slide-data: >
+     Los actuadores eléctricos convierten la energía eléctrica en movimiento mediante campos magnéticos o sistemas de engranajes. Pueden generar movimiento rotativo o lineal.
+
+ - title: Características de Actuadores Eléctricos
+   slide-data: >
+     - Alta precisión y control
+     - Requieren una fuente de energía eléctrica
+     - Bajo nivel de ruido
+     - Capacidad de carga moderada
+
+ - title: Modo de Comunicación de Actuadores Eléctricos
+   slide-data: >
+     Los actuadores eléctricos se controlan mediante señales analógicas o digitales, como 0-10V o 4-20mA. Se conectan a PLCs o sistemas de automatización.
+
+ - title: Actuadores Mecánicos
+   slide-data: >
+     Los actuadores mecánicos convierten la energía en movimiento mecánico utilizando engranajes, palancas o tornillos. Son altamente duraderos y se pueden controlar manual o automáticamente.
+
+ - title: Tipos de Actuadores Mecánicos
+   slide-data: >
+     - Actuadores de leva y seguidor
+     - Actuadores de tornillo
+     - Actuadores de cremallera y piñón
+
+ - title: Funcionamiento de Actuadores Mecánicos
+   slide-data: >
+     Usan engranajes, tornillos o levas para convertir el movimiento, logrando así un control preciso sobre el movimiento rotatorio o lineal.
+
+ - title: Características de Actuadores Mecánicos
+   slide-data: >
+     - Alta durabilidad
+     - No siempre requieren electricidad
+     - Mantenimiento regular en algunos casos
+     - Ofrecen control preciso del movimiento
+
+ - title: Modo de Comunicación de Actuadores Mecánicos
+   slide-data: >
+     Los actuadores mecánicos pueden operar manualmente o estar conectados a sistemas automáticos mediante sensores o motores. También pueden depender de conexiones mecánicas entre dispositivos.
+
+ - title: Actuadores Hidráulicos
+   slide-data: >
+     Los actuadores hidráulicos convierten la presión del fluido en movimiento mecánico. Son ideales para aplicaciones de alta potencia donde se requieren fuerzas elevadas.
+
+ - title: Tipos de Actuadores Hidráulicos
+   slide-data: >
+     - Cilindros hidráulicos (movimiento lineal)
+     - Motores hidráulicos (movimiento rotatorio)
+
+ - title: Funcionamiento de Actuadores Hidráulicos
+   slide-data: >
+     Funcionan mediante la presión de un líquido, como el aceite, que actúa sobre un pistón dentro de un cilindro. Esto permite la generación de grandes fuerzas para mover cargas pesadas.
+
+ - title: Características de Actuadores Hidráulicos
+   slide-data: >
+     - Alta potencia y capacidad de carga
+     - Precisión moderada
+     - Requiere mantenimiento regular
+     - Pueden trabajar en ambientes extremos
+
+ - title: Modo de Comunicación de Actuadores Hidráulicos
+   slide-data: >
+     Se controlan mediante válvulas y sensores que regulan la presión y el flujo del fluido. Pueden conectarse a sistemas de control como PLCs mediante señales analógicas o digitales.
 
 ---
 
 {% for slide in page.slides %}
                     
-<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}"><h1>{{slide.title}}</h1>{{ slide.slide-data }}</section>
+<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
+  <h1>{{slide.title}}</h1>
+  <p>{{ slide.slide-data }}</p>
+</section>
                     
 {% endfor %}
-    
