@@ -14,13 +14,13 @@ slides:
      Los actuadores eléctricos convierten la energía eléctrica en movimiento mecánico. Son altamente precisos y controlables, aunque requieren electricidad. Se utilizan en aplicaciones que demandan control exacto y bajo nivel de ruido.
 
  - title: <h2>Actuadores Eléctricos</h2>
-   slide-data: >
+   slide-data: >"
     <h3> <strong> Tipos de Actuadores Eléctricos</strong></h3><br>
      - Motores eléctricos (AC y DC)<br>
      - Actuadores lineales<br>
-     - Solenoides<br>< br>
+     - Solenoides<br> < br>
    <h3> <br><strong>Funcionamiento de Actuadores Eléctricos</strong><br></h3>
-     Los actuadores eléctricos convierten la energía eléctrica en movimiento mediante campos magnéticos o sistemas de engranajes. Pueden generar movimiento rotativo o lineal.
+     Los actuadores eléctricos convierten la energía eléctrica en movimiento mediante campos magnéticos o sistemas de engranajes.      Pueden generar movimiento rotativo o lineal."
 
  - title:  <h2>Actuadores Eléctricos</h2>
    slide-data: >
