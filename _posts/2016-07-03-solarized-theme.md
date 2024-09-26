@@ -76,6 +76,7 @@ slides:
    <br><h4> <strong>  Modo de Comunicación</strong></h4>
      Se controlan mediante válvulas y sensores que regulan la presión y el flujo del fluido. Pueden conectarse a sistemas de control como PLCs mediante señales analógicas o digitales."
 
+- title: GRACIAS:)
 ---
 
 {% for slide in page.slides %}
