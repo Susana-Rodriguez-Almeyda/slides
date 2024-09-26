@@ -8,7 +8,7 @@ slides:
    slide-data: "Los sensores son dispositivos que detectan cambios en el entorno físico y generan una señal de respuesta que puede ser analógica o digital. Se utilizan en una amplia variedad de aplicaciones industriales, científicas y tecnológicas para medir diferentes variables como luz, temperatura, presión, proximidad, entre otras.<br>"
    background: "#e74c3c"
      
- - title: Sensores Ópticos
+ - title: <h1>Sensores Ópticos</h1>
    slide-data: "<br> 
                <strong>Tipos:</strong> Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br>
                <strong>Funcionamiento:</strong> Detectan cambios en la luz o utilizan la luz para medir propiedades físicas como la distancia, la presencia o la velocidad.<br>
