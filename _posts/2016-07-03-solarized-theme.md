@@ -36,7 +36,7 @@ slides:
      "Los actuadores mecánicos convierten la energía en movimiento mecánico utilizando engranajes, palancas o tornillos. Son altamente duraderos y se pueden controlar manual o automáticamente."
 
  - title: <h2>Actuadores Mecánicos</h2>
-   slide-data:"
+   slide-data: "
    <h4> <strong> Tipos de Actuadores Mecánicos </strong></h4>
      - Actuadores de leva y seguidor <br>
      - Actuadores de tornillo <br>
