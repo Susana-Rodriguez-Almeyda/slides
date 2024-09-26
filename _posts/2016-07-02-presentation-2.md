@@ -26,18 +26,18 @@ slides:
    
  - title: Sensores de Presión
    slide-data: "<br> 
-               <strong>1.3.1 Tipos:</strong> Piezorresistivos, capacitivos, piezoeléctricos, de resonancia. <br> <br>
-               <strong>1.3.2 Funcionamiento:</strong> Detectan la presión física aplicada y la convierten en una señal eléctrica proporcional. <br> <br>
-               <strong>1.3.3 Características:</strong> Alta precisión, disponibles para varios rangos de presión, resistentes y fiables para mediciones industriales. <br> <br>
+               <strong>Tipos:</strong> Piezorresistivos, capacitivos, piezoeléctricos, de resonancia. <br>
+               <strong>Funcionamiento:</strong> Detectan la presión física aplicada y la convierten en una señal eléctrica proporcional. <br>
+               <strong>Características:</strong> Alta precisión, disponibles para varios rangos de presión, resistentes y fiables para mediciones industriales.<br>
                <strong>1.3.4 Modo de comunicación:</strong> Señales analógicas o digitales según el tipo de sensor y aplicación. <br>"
    background: '#3498db'
    
  - title: Sensores de Proximidad
    slide-data: "<br> 
-               <strong>1.4.1 Tipos:</strong> Inductivos, capacitivos, ópticos, ultrasónicos. <br> <br>
-               <strong>1.4.2 Funcionamiento:</strong> Detectan la presencia o cercanía de objetos sin contacto físico, utilizando diferentes principios como electromagnetismo o ultrasonido. <br> <br>
-               <strong>1.4.3 Características:</strong> Sin contacto físico, resistentes, rápidos en la detección, duraderos en condiciones industriales. <br> <br>
-               <strong>1.4.4 Modo de comunicación:</strong> Señales digitales, analógicas o inalámbricas según el sistema de uso. <br>"
+               <strong>Tipos:</strong> Inductivos, capacitivos, ópticos, ultrasónicos. <br>
+               <strong>Funcionamiento:</strong> Detectan la presencia o cercanía de objetos sin contacto físico, utilizando diferentes principios como electromagnetismo o ultrasonido. <br>
+               <strong>Características:</strong> Sin contacto físico, resistentes, rápidos en la detección, duraderos en condiciones industriales. <br>
+               <strong>Modo de comunicación:</strong> Señales digitales, analógicas o inalámbricas según el sistema de uso. <br>"
    background: '#2ecc71'
    
  - title: Conclusión
