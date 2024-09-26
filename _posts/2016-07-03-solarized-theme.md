@@ -75,6 +75,11 @@ slides:
      - Pueden trabajar en ambientes extremos<br>
    <br><h4> <strong>  Modo de Comunicación</strong></h4>
      Se controlan mediante válvulas y sensores que regulan la presión y el flujo del fluido. Pueden conectarse a sistemas de control como PLCs mediante señales analógicas o digitales."
+ - title: Conclusión
+   slide-data: "
+   Los actuadores son componentes clave en los sistemas de control automatizados, ya que permiten convertir señales de control en movimiento mecánico. Dependiendo de la fuente de energía utilizada, se clasifican en eléctricos, mecánicos e hidráulicos, cada uno con sus características, ventajas y limitaciones.
+   <br>La elección del tipo de actuador adecuado depende de los requerimientos específicos de cada aplicación, como la precisión, la potencia y el entorno operativo.
+   "
    
  - title: GRACIAS
 ---
