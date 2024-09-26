@@ -29,7 +29,7 @@ slides:
                <strong>Tipos:</strong> Piezorresistivos, capacitivos, piezoeléctricos, de resonancia. <br>
                <strong>Funcionamiento:</strong> Detectan la presión física aplicada y la convierten en una señal eléctrica proporcional. <br>
                <strong>Características:</strong> Alta precisión, disponibles para varios rangos de presión, resistentes y fiables para mediciones industriales.<br>
-               <strong>1.3.4 Modo de comunicación:</strong> Señales analógicas o digitales según el tipo de sensor y aplicación. <br>"
+               <strong>Modo de comunicación:</strong> Señales analógicas o digitales según el tipo de sensor y aplicación. <br>"
    background: '#3498db'
    
  - title: Sensores de Proximidad
@@ -41,7 +41,7 @@ slides:
    background: '#2ecc71'
    
  - title: Conclusión
-   slide-data: "En conclusión, los sensores juegan un papel fundamental en la automatización y el control en la industria moderna. Su capacidad para medir con precisión y transmitir datos en tiempo real permite mejorar la eficiencia, seguridad y calidad en una amplia gama de procesos. El uso de sensores continuará expandiéndose con el avance de nuevas tecnologías. <br> <br>"
+   slide-data: "En conclusión, los sensores juegan un papel fundamental en la automatización y el control en la industria moderna. Su capacidad para medir con precisión y transmitir datos en tiempo real permite mejorar la eficiencia, seguridad y calidad en una amplia gama de procesos. El uso de sensores continuará expandiéndose con el avance de nuevas tecnologías. <br>"
    background: '#1abc9c'
 
  - title: Gracias
