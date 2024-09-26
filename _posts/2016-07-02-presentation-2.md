@@ -4,48 +4,50 @@ layout: post
 permalink: /presentation-2/
 
 slides:
- - title:  "Sensores <br> <br>"
+ - title: Sensores
+   slide-data: "En esta presentación se explorarán diferentes tipos de sensores. <br> <br>"
    background: "#e74c3c"
      
- - title: "Ópticos <br> <br> "
-   slide-data: " 1.1.1 Tipos: Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br>
-               1.1.2 Funcionamiento: Detectan cambios en la luz o usan la luz para medir propiedades físicas <br>
-               1.1.3 Características: Alta precisión, sin contacto físico, rápidos, versátiles <br>
-               1.1.4 Modo de comunicación: Señales eléctricas o digitales <br>"
+ - title: Sensores Ópticos
+   slide-data: "Ópticos <br> <br> 
+               <strong>1.1.1 Tipos:</strong> Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br> <br>
+               <strong>1.1.2 Funcionamiento:</strong> Detectan cambios en la luz o utilizan la luz para medir propiedades físicas como la distancia, la presencia o la velocidad. <br> <br>
+               <strong>1.1.3 Características:</strong> Alta precisión, sin contacto físico, rápidos, versátiles, aplicables en varias industrias. <br> <br>
+               <strong>1.1.4 Modo de comunicación:</strong> Señales eléctricas o digitales que transportan la información captada. <br>"
    background: '#f1c40f'
    
- - title: Slide 3
+ - title: Sensores de Temperatura
    slide-data: "Temperatura <br> <br> 
-               1.2.1 Tipos: Termopares, termistores, RTD, sensores infrarrojos <br>
-               1.2.2 Funcionamiento: Miden cambios en propiedades como resistencia eléctrica o radiación térmica <br>
-               1.2.3 Características: Amplio rango de temperaturas, precisión variable según el tipo de sensor <br>
-               1.2.4 Modo de comunicación: Señales analógicas o digitales <br>"
+               <strong>1.2.1 Tipos:</strong> Termopares, termistores, sensores de resistencia (RTD), sensores infrarrojos. <br> <br>
+               <strong>1.2.2 Funcionamiento:</strong> Miden la temperatura detectando cambios en la resistencia eléctrica, la emisión de radiación térmica, o la termoelectricidad. <br> <br>
+               <strong>1.2.3 Características:</strong> Amplio rango de temperaturas, precisión variable según el tipo de sensor, adecuados para múltiples aplicaciones industriales y científicas. <br> <br>
+               <strong>1.2.4 Modo de comunicación:</strong> Utilizan señales analógicas o digitales para transmitir lecturas. <br>"
    background: '#9b59b6'
    
- - title: Slide 4
+ - title: Sensores de Presión
    slide-data: "Presión <br> <br> 
-               1.3.1 Tipos: Piezorresistivos, capacitivos, piezoeléctricos, de resonancia <br>
-               1.3.2 Funcionamiento: Detectan la presión y la convierten en una señal eléctrica proporcional <br>
-               1.3.3 Características: Alta precisión, adaptables para varios rangos de presión <br>
-               1.3.4 Modo de comunicación: Señales analógicas o digitales <br>"
+               <strong>1.3.1 Tipos:</strong> Piezorresistivos, capacitivos, piezoeléctricos, de resonancia. <br> <br>
+               <strong>1.3.2 Funcionamiento:</strong> Detectan la presión física aplicada y la convierten en una señal eléctrica proporcional. <br> <br>
+               <strong>1.3.3 Características:</strong> Alta precisión, disponibles para varios rangos de presión, resistentes y fiables para mediciones industriales. <br> <br>
+               <strong>1.3.4 Modo de comunicación:</strong> Señales analógicas o digitales según el tipo de sensor y aplicación. <br>"
    background: '#3498db'
    
- - title: Slide 5
+ - title: Sensores de Proximidad
    slide-data: "Proximidad <br> <br> 
-               1.4.1 Tipos: Inductivos, capacitivos, ópticos, ultrasónicos <br>
-               1.4.2 Funcionamiento: Detectan objetos sin contacto físico usando ondas electromagnéticas o ultrasónicas <br>
-               1.4.3 Características: Sin contacto, duraderos, rápidos en la detección <br>
-               1.4.4 Modo de comunicación: Señales digitales, analógicas o inalámbricas <br>"
+               <strong>1.4.1 Tipos:</strong> Inductivos, capacitivos, ópticos, ultrasónicos. <br> <br>
+               <strong>1.4.2 Funcionamiento:</strong> Detectan la presencia o cercanía de objetos sin contacto físico, utilizando diferentes principios como electromagnetismo o ultrasonido. <br> <br>
+               <strong>1.4.3 Características:</strong> Sin contacto físico, resistentes, rápidos en la detección, duraderos en condiciones industriales. <br> <br>
+               <strong>1.4.4 Modo de comunicación:</strong> Señales digitales, analógicas o inalámbricas según el sistema de uso. <br>"
    background: '#2ecc71'
    
- - title: Slide 6
-   slide-data: "Slide adicional <br> <br> 
-               Agrega más contenido aquí si es necesario"
+ - title: Slide adicional
+   slide-data: "Información adicional <br> <br> 
+               Puedes agregar más contenido o expandir detalles según sea necesario."
    background: '#1abc9c'
 
- - title: Slide 7
-   slide-data: "Slide adicional <br> <br> 
-               Agrega más contenido aquí si es necesario"
+ - title: Slide adicional
+   slide-data: "Más contenido <br> <br> 
+               Agrega más detalles sobre sensores u otros temas relacionados aquí."
    background: '#e67e22'
 ---
 
