@@ -14,21 +14,21 @@ slides:
     " Los actuadores eléctricos convierten la energía eléctrica en movimiento mecánico. Son altamente precisos y controlables, aunque requieren electricidad. Se utilizan en aplicaciones que demandan control exacto y bajo nivel de ruido."
 
  - title: <h2>Actuadores Eléctricos</h2>
-   slide-data: "<h3> <strong> Tipos de Actuadores Eléctricos</strong></h3><br>
+   slide-data: "<h4> <strong> Tipos de Actuadores Eléctricos</strong></h4>
      - Motores eléctricos (AC y DC)<br>
      - Actuadores lineales<br>
-     - Solenoides<br> < br>
-   <h3> <br><strong>Funcionamiento de Actuadores Eléctricos</strong><br></h3>
+     - Solenoides < br>
+   <h4> <br><strong>Funcionamiento de Actuadores Eléctricos</strong><br></h4>
      Los actuadores eléctricos convierten la energía eléctrica en movimiento mediante campos magnéticos o sistemas de engranajes.      Pueden generar movimiento rotativo o lineal."
 
  - title:  <h2>Actuadores Eléctricos</h2>
    slide-data: "
-  <h3> <strong> Características de Actuadores Eléctricos</strong></h3><br>
+  <h4> <strong> Características de Actuadores Eléctricos</strong></h4>
      - Alta precisión y control<br>
      - Requieren una fuente de energía eléctrica<br>
      - Bajo nivel de ruido<br>
      - Capacidad de carga moderada<br>
-     <br><h3> <strong>Modo de Comunicación de Actuadores Eléctricos</strong> </h3><br>
+     <br><h4> <strong>Modo de Comunicación de Actuadores Eléctricos</strong> </h4><br>
      Los actuadores eléctricos se controlan mediante señales analógicas o digitales, como 0-10V o 4-20mA. Se conectan a PLCs o sistemas de automatización."
 
  - title: Actuadores Mecánicos
