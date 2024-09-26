@@ -9,7 +9,7 @@ slides:
    background: "#e74c3c"
      
  - title: Slide 2
-   slide-data: Ópticos <br>
+   slide-data: Ópticos 
                1.1.1 Tipos: Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br>
                1.1.2 Funcionamiento: Detectan cambios en la luz o usan la luz para medir propiedades físicas <br>
                1.1.3 Características: Alta precisión, sin contacto físico, rápidos, versátiles <br>
