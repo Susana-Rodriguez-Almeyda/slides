@@ -9,7 +9,7 @@ slides:
    background: "#e74c3c"
      
  - title: <h2>Sensores Ópticos</h2>
-   slide-data: "<br> 
+   slide-data: "
                <strong>Tipos:</strong> Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br>
                <strong>Funcionamiento:</strong> Detectan cambios en la luz o utilizan la luz para medir propiedades físicas como la distancia, la presencia o la velocidad.<br>
                <strong>Características:</strong> Alta precisión, sin contacto físico, rápidos, versátiles, aplicables en varias industrias.<br>
