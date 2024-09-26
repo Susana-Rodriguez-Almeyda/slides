@@ -36,7 +36,8 @@ slides:
      "Los actuadores mecánicos convierten la energía en movimiento mecánico utilizando engranajes, palancas o tornillos. Son altamente duraderos y se pueden controlar manual o automáticamente."
 
  - title: <h2>Actuadores Mecánicos</h2>
-   slide-data:"<h4> <strong> Tipos de Actuadores Mecánicos </strong></h4>
+   slide-data:"
+   <h4> <strong> Tipos de Actuadores Mecánicos </strong></h4>
      - Actuadores de leva y seguidor <br>
      - Actuadores de tornillo <br>
      - Actuadores de cremallera y piñón <br>
@@ -44,8 +45,8 @@ slides:
       Usan engranajes, tornillos o levas para convertir el movimiento, logrando así un control preciso sobre el movimiento rotatorio o lineal."
       
  - title: <h2>Actuadores Mecánicos</h2>
-
-   slide-data: "<h4> <strong>  Características de Actuadores Mecánicos </strong></h4><br>
+   slide-data: "
+   <h4> <strong>  Características de Actuadores Mecánicos </strong></h4><br>
      - Alta durabilidad <br>
      - No siempre requieren electricidad <br>
      - Mantenimiento regular en algunos casos <br>
@@ -54,11 +55,11 @@ slides:
      Los actuadores mecánicos pueden operar manualmente o estar conectados a sistemas automáticos mediante sensores o motores. También pueden depender de conexiones mecánicas entre dispositivos."
 
  - title: Actuadores Hidráulicos
-   slide-data: >
+   slide-data: 
      Los actuadores hidráulicos convierten la presión del fluido en movimiento mecánico. Son ideales para aplicaciones de alta potencia donde se requieren fuerzas elevadas.
 
  - title: Tipos de Actuadores Hidráulicos
-   slide-data: >
+   slide-data: 
      - Cilindros hidráulicos (movimiento lineal)
      - Motores hidráulicos (movimiento rotatorio)
 
