@@ -5,48 +5,55 @@ permalink: /presentation-2/
 
 slides:
  - title: Slide 1
-   slide-data: Sensores <br> <br> 
+   slide-data: Tema: Sensores
    background: "#e74c3c"
      
  - title: Slide 2
-   slide-data: Ópticos 
-               1.1.1 Tipos: Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br>
-               1.1.2 Funcionamiento: Detectan cambios en la luz o usan la luz para medir propiedades físicas <br>
-               1.1.3 Características: Alta precisión, sin contacto físico, rápidos, versátiles <br>
-               1.1.4 Modo de comunicación: Señales eléctricas o digitales <br>
+   slide-data: |
+     **Sensor Óptico**  
+     - **Tipos**: Sensores de luz, de imagen, fotodiodos, fototransistores, infrarrojos  
+     - **Funcionamiento**: Detectan cambios en la luz o utilizan la luz para medir propiedades físicas.  
+     - **Características**: Alta precisión, medición sin contacto, rápido.  
+     - **Modo de comunicación**: Señales eléctricas o digitales.
    background: '#f1c40f'
    
  - title: Slide 3
-   slide-data: Temperatura <br>
-               1.2.1 Tipos: Termopares, termistores, RTD, sensores infrarrojos <br>
-               1.2.2 Funcionamiento: Miden cambios en propiedades como resistencia eléctrica o radiación térmica <br>
-               1.2.3 Características: Amplio rango de temperaturas, precisión variable según el tipo de sensor <br>
-               1.2.4 Modo de comunicación: Señales analógicas o digitales <br>
+   slide-data: |
+     **Sensor de Temperatura**  
+     - **Tipos**: Termopares, termistores, sensores RTD, infrarrojos  
+     - **Funcionamiento**: Miden cambios en la resistencia o radiación térmica.  
+     - **Características**: Amplio rango de temperaturas, precisión variable.  
+     - **Modo de comunicación**: Señales analógicas o digitales.
    background: '#9b59b6'
    
  - title: Slide 4
-   slide-data: Presión <br> 
-               1.3.1 Tipos: Piezorresistivos, capacitivos, piezoeléctricos, de resonancia <br>
-               1.3.2 Funcionamiento: Detectan la presión y la convierten en una señal eléctrica proporcional <br>
-               1.3.3 Características: Alta precisión, adaptables para varios rangos de presión <br>
-               1.3.4 Modo de comunicación: Señales analógicas o digitales <br>
+   slide-data: |
+     **Sensor de Presión**  
+     - **Tipos**: Piezorresistivos, capacitivos, piezoeléctricos, de resonancia  
+     - **Funcionamiento**: Detectan presión y la convierten en señal eléctrica.  
+     - **Características**: Alta precisión, diferentes configuraciones.  
+     - **Modo de comunicación**: Señales analógicas o digitales.
    background: '#3498db'
    
  - title: Slide 5
-   slide-data: Proximidad <br> 
-               1.4.1 Tipos: Inductivos, capacitivos, ópticos, ultrasónicos <br>
-               1.4.2 Funcionamiento: Detectan objetos sin contacto físico usando ondas electromagnéticas o ultrasónicas <br>
-               1.4.3 Características: Sin contacto, duraderos, rápidos en la detección <br>
-               1.4.4 Modo de comunicación: Señales digitales, analógicas o inalámbricas <br>
+   slide-data: |
+     **Sensor de Proximidad**  
+     - **Tipos**: Inductivos, capacitivos, ópticos, ultrasónicos  
+     - **Funcionamiento**: Detectan objetos sin contacto usando ondas electromagnéticas o ultrasónicas.  
+     - **Características**: Sin contacto, duraderos, rápidos en la detección.  
+     - **Modo de comunicación**: Señales digitales, analógicas o inalámbricas.
    background: '#2ecc71'
    
  - title: Slide 6
-   slide-data: Slide adicional <br> <br> 
-               Agrega más contenido aquí si es necesario
+   slide-data: |
+     **Resumen de Sensores**  
+     - Ópticos, Temperatura, Presión, Proximidad  
+     - Funcionamientos y características específicas de cada tipo.  
+     - Modos de comunicación: Digitales, analógicos.
    background: '#1abc9c'
+
  - title: Slide 7
-   slide-data: Slide adicional <br> <br> 
-               Agrega más contenido aquí si es necesario
+   slide-data: Gracias por su atención
    background: '#e67e22'
 ---
 
@@ -55,4 +62,3 @@ slides:
 <section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}"><h1>{{slide.title}}</h1>{{ slide.slide-data }}</section>
                     
 {% endfor %}
-    
