@@ -8,7 +8,7 @@ slides:
    slide-data: "Los sensores son dispositivos que detectan cambios en el entorno físico y generan una señal de respuesta que puede ser analógica o digital. Se utilizan en una amplia variedad de aplicaciones industriales, científicas y tecnológicas para medir diferentes variables como luz, temperatura, presión, proximidad, entre otras.<br>"
    background: "#e74c3c"
      
- - title: <h1>Sensores Ópticos</h1>
+ - title: <h2>Sensores Ópticos</h2>
    slide-data: "<br><strong>Tipos:</strong> Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br>
                <strong>Funcionamiento:</strong> Detectan cambios en la luz o utilizan la luz para medir propiedades físicas como la distancia, la presencia o la velocidad.<br>
                <strong>Características:</strong> Alta precisión, sin contacto físico, rápidos, versátiles, aplicables en varias industrias.<br>
@@ -16,7 +16,7 @@ slides:
    background: '#f1c40f'
    
  - title: <h2>Sensores de Temperatura</h2>
-   slide-data: "<br><strong>Tipos:</strong> Termopares, termistores, sensores de resistencia (RTD), sensores infrarrojos. <br>
+   slide-data: "<strong>Tipos:</strong> Termopares, termistores, sensores de resistencia (RTD), sensores infrarrojos. <br>
                <strong>Funcionamiento:</strong> Miden la temperatura detectando cambios en la resistencia eléctrica, la emisión de radiación térmica, o la termoelectricidad. <br>
                <strong>Características:</strong> Amplio rango de temperaturas, precisión variable según el tipo de sensor, adecuados para múltiples aplicaciones industriales y científicas. <br>
                <strong>Modo de comunicación:</strong> Utilizan señales analógicas o digitales para transmitir lecturas. <br>"
