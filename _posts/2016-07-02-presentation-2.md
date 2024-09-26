@@ -9,7 +9,7 @@ slides:
    background: "#e74c3c"
      
  - title: Sensores Ópticos
-   slide-data: "Ópticos <br> <br> 
+   slide-data: "<br> 
                <strong>1.1.1 Tipos:</strong> Sensores de luz, cámaras, fotodiodos, fototransistores, infrarrojos <br> <br>
                <strong>1.1.2 Funcionamiento:</strong> Detectan cambios en la luz o utilizan la luz para medir propiedades físicas como la distancia, la presencia o la velocidad. <br> <br>
                <strong>1.1.3 Características:</strong> Alta precisión, sin contacto físico, rápidos, versátiles, aplicables en varias industrias. <br> <br>
@@ -17,7 +17,7 @@ slides:
    background: '#f1c40f'
    
  - title: Sensores de Temperatura
-   slide-data: "Temperatura <br> <br> 
+   slide-data: "<br> 
                <strong>1.2.1 Tipos:</strong> Termopares, termistores, sensores de resistencia (RTD), sensores infrarrojos. <br> <br>
                <strong>1.2.2 Funcionamiento:</strong> Miden la temperatura detectando cambios en la resistencia eléctrica, la emisión de radiación térmica, o la termoelectricidad. <br> <br>
                <strong>1.2.3 Características:</strong> Amplio rango de temperaturas, precisión variable según el tipo de sensor, adecuados para múltiples aplicaciones industriales y científicas. <br> <br>
@@ -25,7 +25,7 @@ slides:
    background: '#9b59b6'
    
  - title: Sensores de Presión
-   slide-data: "Presión <br> <br> 
+   slide-data: "<br> 
                <strong>1.3.1 Tipos:</strong> Piezorresistivos, capacitivos, piezoeléctricos, de resonancia. <br> <br>
                <strong>1.3.2 Funcionamiento:</strong> Detectan la presión física aplicada y la convierten en una señal eléctrica proporcional. <br> <br>
                <strong>1.3.3 Características:</strong> Alta precisión, disponibles para varios rangos de presión, resistentes y fiables para mediciones industriales. <br> <br>
@@ -33,7 +33,7 @@ slides:
    background: '#3498db'
    
  - title: Sensores de Proximidad
-   slide-data: "Proximidad <br> <br> 
+   slide-data: "<br> 
                <strong>1.4.1 Tipos:</strong> Inductivos, capacitivos, ópticos, ultrasónicos. <br> <br>
                <strong>1.4.2 Funcionamiento:</strong> Detectan la presencia o cercanía de objetos sin contacto físico, utilizando diferentes principios como electromagnetismo o ultrasonido. <br> <br>
                <strong>1.4.3 Características:</strong> Sin contacto físico, resistentes, rápidos en la detección, duraderos en condiciones industriales. <br> <br>
@@ -45,8 +45,6 @@ slides:
    background: '#1abc9c'
 
  - title: Gracias
-   slide-data: "<h2>¡GRACIAS!</h2> <br> 
-               Agradecemos su atención durante esta presentación."
    background: '#e67e22'
 ---
 
