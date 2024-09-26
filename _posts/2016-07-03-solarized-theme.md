@@ -7,11 +7,11 @@ theme: solarized
 slides:
  - title: Actuadores
    slide-data: >
-     Un actuador es un dispositivo que convierte una señal de control en movimiento mecánico. Dependiendo de la fuente de energía, se clasifican en eléctricos, mecánicos e hidráulicos.
+     "Un actuador es un dispositivo que convierte una señal de control en movimiento mecánico. Dependiendo de la fuente de energía, se clasifican en eléctricos, mecánicos e hidráulicos."
 
  - title: Actuadores Eléctricos
    slide-data: >
-     Los actuadores eléctricos convierten la energía eléctrica en movimiento mecánico. Son altamente precisos y controlables, aunque requieren electricidad. Se utilizan en aplicaciones que demandan control exacto y bajo nivel de ruido.
+    " Los actuadores eléctricos convierten la energía eléctrica en movimiento mecánico. Son altamente precisos y controlables, aunque requieren electricidad. Se utilizan en aplicaciones que demandan control exacto y bajo nivel de ruido."
 
  - title: <h2>Actuadores Eléctricos</h2>
    slide-data: >"
@@ -23,14 +23,14 @@ slides:
      Los actuadores eléctricos convierten la energía eléctrica en movimiento mediante campos magnéticos o sistemas de engranajes.      Pueden generar movimiento rotativo o lineal."
 
  - title:  <h2>Actuadores Eléctricos</h2>
-   slide-data: >
+   slide-data: >"
   <h3> <strong> Características de Actuadores Eléctricos</strong></h3><br>
      - Alta precisión y control<br>
      - Requieren una fuente de energía eléctrica<br>
      - Bajo nivel de ruido<br>
      - Capacidad de carga moderada<br>
      <br><h3> <strong>Modo de Comunicación de Actuadores Eléctricos</strong> </h3><br>
-     Los actuadores eléctricos se controlan mediante señales analógicas o digitales, como 0-10V o 4-20mA. Se conectan a PLCs o sistemas de automatización.
+     Los actuadores eléctricos se controlan mediante señales analógicas o digitales, como 0-10V o 4-20mA. Se conectan a PLCs o sistemas de automatización."
 
  - title: Actuadores Mecánicos
    slide-data: >
