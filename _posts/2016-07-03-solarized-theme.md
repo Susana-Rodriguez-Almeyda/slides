@@ -17,7 +17,7 @@ slides:
    slide-data: "<h4> <strong> Tipos de Actuadores Eléctricos</strong></h4>
      - Motores eléctricos (AC y DC)<br>
      - Actuadores lineales<br>
-     - Solenoides < br>
+     - Solenoides 
    <h4> <br><strong>Funcionamiento de Actuadores Eléctricos</strong><br></h4>
      Los actuadores eléctricos convierten la energía eléctrica en movimiento mediante campos magnéticos o sistemas de engranajes.      Pueden generar movimiento rotativo o lineal."
 
@@ -28,33 +28,30 @@ slides:
      - Requieren una fuente de energía eléctrica<br>
      - Bajo nivel de ruido<br>
      - Capacidad de carga moderada<br>
-     <br><h4> <strong>Modo de Comunicación de Actuadores Eléctricos</strong> </h4><br>
+     <br><h4> <strong>Modo de Comunicación de Actuadores Eléctricos</strong> </h4>
      Los actuadores eléctricos se controlan mediante señales analógicas o digitales, como 0-10V o 4-20mA. Se conectan a PLCs o sistemas de automatización."
 
  - title: Actuadores Mecánicos
    slide-data: 
      Los actuadores mecánicos convierten la energía en movimiento mecánico utilizando engranajes, palancas o tornillos. Son altamente duraderos y se pueden controlar manual o automáticamente.
 
- - title: Tipos de Actuadores Mecánicos
-   slide-data: >
-     - Actuadores de leva y seguidor
-     - Actuadores de tornillo
-     - Actuadores de cremallera y piñón
+ - title: <h2>Actuadores Mecánicos</h2>
+   slide-data:"<h4> <strong> Tipos de Actuadores Mecánicos </strong></h4>
+     - Actuadores de leva y seguidor <br>
+     - Actuadores de tornillo <br>
+     - Actuadores de cremallera y piñón <br>
+     <h4> <strong> Funcionamiento de Actuadores Mecánicos </strong></h4><br>
+      Usan engranajes, tornillos o levas para convertir el movimiento, logrando así un control preciso sobre el movimiento rotatorio o lineal."
+      
+ - title: <h2>Actuadores Mecánicos</h2>
 
- - title: Funcionamiento de Actuadores Mecánicos
-   slide-data: >
-     Usan engranajes, tornillos o levas para convertir el movimiento, logrando así un control preciso sobre el movimiento rotatorio o lineal.
-
- - title: Características de Actuadores Mecánicos
-   slide-data: >
-     - Alta durabilidad
-     - No siempre requieren electricidad
-     - Mantenimiento regular en algunos casos
-     - Ofrecen control preciso del movimiento
-
- - title: Modo de Comunicación de Actuadores Mecánicos
-   slide-data: >
-     Los actuadores mecánicos pueden operar manualmente o estar conectados a sistemas automáticos mediante sensores o motores. También pueden depender de conexiones mecánicas entre dispositivos.
+   slide-data: "<h4> <strong>  Características de Actuadores Mecánicos </strong></h4><br>
+     - Alta durabilidad <br>
+     - No siempre requieren electricidad <br>
+     - Mantenimiento regular en algunos casos <br>
+     - Ofrecen control preciso del movimiento <br>
+     <h4> <strong>  Modo de Comunicación de Actuadores Mecánicos </strong></h4><br>
+     Los actuadores mecánicos pueden operar manualmente o estar conectados a sistemas automáticos mediante sensores o motores. También pueden depender de conexiones mecánicas entre dispositivos."
 
  - title: Actuadores Hidráulicos
    slide-data: >
