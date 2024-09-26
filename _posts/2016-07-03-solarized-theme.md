@@ -41,31 +41,30 @@ slides:
      - Actuadores de leva y seguidor <br>
      - Actuadores de tornillo <br>
      - Actuadores de cremallera y piñón <br>
-     <h4> <strong> Funcionamiento de Actuadores Mecánicos </strong></h4><br>
+    <br> <h4> <strong> Funcionamiento de Actuadores Mecánicos </strong></h4><br>
       Usan engranajes, tornillos o levas para convertir el movimiento, logrando así un control preciso sobre el movimiento rotatorio o lineal."
       
  - title: <h2>Actuadores Mecánicos</h2>
    slide-data: "
-   <h4> <strong>  Características de Actuadores Mecánicos </strong></h4><br>
+   <h4> <strong>  Características de Actuadores Mecánicos </strong></h4>
      - Alta durabilidad <br>
      - No siempre requieren electricidad <br>
      - Mantenimiento regular en algunos casos <br>
      - Ofrecen control preciso del movimiento <br>
-     <h4> <strong>  Modo de Comunicación de Actuadores Mecánicos </strong></h4><br>
+     <br><h4> <strong>  Modo de Comunicación de Actuadores Mecánicos </strong></h4>
      Los actuadores mecánicos pueden operar manualmente o estar conectados a sistemas automáticos mediante sensores o motores. También pueden depender de conexiones mecánicas entre dispositivos."
 
  - title: Actuadores Hidráulicos
    slide-data: 
-     Los actuadores hidráulicos convierten la presión del fluido en movimiento mecánico. Son ideales para aplicaciones de alta potencia donde se requieren fuerzas elevadas.
+     "Los actuadores hidráulicos convierten la presión del fluido en movimiento mecánico. Son ideales para aplicaciones de alta potencia donde se requieren fuerzas elevadas."
 
- - title: Tipos de Actuadores Hidráulicos
-   slide-data: 
-     - Cilindros hidráulicos (movimiento lineal)
-     - Motores hidráulicos (movimiento rotatorio)
-
- - title: Funcionamiento de Actuadores Hidráulicos
-   slide-data: >
-     Funcionan mediante la presión de un líquido, como el aceite, que actúa sobre un pistón dentro de un cilindro. Esto permite la generación de grandes fuerzas para mover cargas pesadas.
+ - title: <h2>Actuadores Hidráulicos</h2>
+   slide-data: "
+   <h4> <strong> Tipos de Actuadores Hidráulicos </strong></h4>
+     - Cilindros hidráulicos (movimiento lineal)<br>
+     - Motores hidráulicos (movimiento rotatorio)<br>
+   <br><h4> <strong> Funcionamiento de Actuadores Hidráulicos </strong></h4>
+     Funcionan mediante la presión de un líquido, como el aceite, que actúa sobre un pistón dentro de un cilindro. Esto permite la generación de grandes fuerzas para mover cargas pesadas."
 
  - title: Características de Actuadores Hidráulicos
    slide-data: >
